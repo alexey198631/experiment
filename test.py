@@ -9,5 +9,5 @@ class Person:
 
 bob = Person("Bob",25)
 print(bob)
-print(second)
+print(second1986)
 
